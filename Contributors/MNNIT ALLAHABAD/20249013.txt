@@ -1,0 +1,3 @@
+Name: Gaurav Prajapati
+Bio: I pretend I know MERN The compiler, debugger, and bugs tell a different story ;)
+Favorite Film: THAPPAD
